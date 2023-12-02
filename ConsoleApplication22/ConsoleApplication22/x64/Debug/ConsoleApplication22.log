@@ -1,3 +1,2 @@
 ﻿  ConsoleApplication22.cpp
-C:\Users\User\source\repos\ConsoleApplication22\ConsoleApplication22\ConsoleApplication22.cpp(34,17): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
-  ConsoleApplication22.vcxproj -> C:\Users\User\source\repos\ConsoleApplication22\x64\Debug\ConsoleApplication22.exe
+  ConsoleApplication22.vcxproj -> C:\Users\Dima\source\repos\ConsoleApplication22\x64\Debug\ConsoleApplication22.exe
